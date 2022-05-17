@@ -16,7 +16,7 @@ for (let i=0; i < numbers.length; i++){
     outputDiv.append(numbers[i]);
 }
 
-setTimeout (checkingPlayerResult, 30000);
+setTimeout (checkingPlayerResult, 2000);
 
 function checkingPlayerResult (){
 
